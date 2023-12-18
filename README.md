@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MatheusNogueiraUfv/MatheusNogueiraUFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#MatheusNogueiraUFV
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil do GitHub! Eu sou [Matheus Nogueira].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status
+- 👾: Buscando a graduação de Ciência da Computação na UFV.
+- 🚀 Atualmente aprendendo sobre Front-End e C++.
+
+## Estatísticas GitHub
+
+[![Matheus Nogueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true)](https://github.com/seu-username)
+
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)](https://github.com/seu-username)
